@@ -1,0 +1,25 @@
+{
+  "name": "unique-key-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A key generator that supports prefixes and customizable length.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keygen",
+    "id",
+    "unique",
+    "generator"
+  ],
+  "author": "Ritik Singh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritik-wo/unique-key-gen"
+  },
+  "bugs": {
+    "url": "https://github.com/ritik-wo/unique-key-gen/issues"
+  },
+  "homepage": "https://github.com/ritik-wo/unique-key-gen#readme"
+}
